@@ -9,4 +9,7 @@ Console.WriteLine("this is test brunch!");
 
 //this line is the first code of my project!, it is added from test brunch 2
 Console.WriteLine("this is test brunch!");
+
+Console.WriteLine("This is a test message!");
 Console.ReadLine();
+
